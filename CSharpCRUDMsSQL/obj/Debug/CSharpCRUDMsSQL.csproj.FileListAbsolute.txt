@@ -1,0 +1,10 @@
+D:\SSD FOLDER ALEJO\Visual Studio Projects\CSharpCRUDMsSQL\bin\Debug\CSharpCRUDMsSQL.exe.config
+D:\SSD FOLDER ALEJO\Visual Studio Projects\CSharpCRUDMsSQL\bin\Debug\CSharpCRUDMsSQL.exe
+D:\SSD FOLDER ALEJO\Visual Studio Projects\CSharpCRUDMsSQL\bin\Debug\CSharpCRUDMsSQL.pdb
+D:\SSD FOLDER ALEJO\Visual Studio Projects\CSharpCRUDMsSQL\obj\Debug\CSharpCRUDMsSQL.csprojAssemblyReference.cache
+D:\SSD FOLDER ALEJO\Visual Studio Projects\CSharpCRUDMsSQL\obj\Debug\CSharpCRUDMsSQL.Form1.resources
+D:\SSD FOLDER ALEJO\Visual Studio Projects\CSharpCRUDMsSQL\obj\Debug\CSharpCRUDMsSQL.Properties.Resources.resources
+D:\SSD FOLDER ALEJO\Visual Studio Projects\CSharpCRUDMsSQL\obj\Debug\CSharpCRUDMsSQL.csproj.GenerateResource.cache
+D:\SSD FOLDER ALEJO\Visual Studio Projects\CSharpCRUDMsSQL\obj\Debug\CSharpCRUDMsSQL.csproj.CoreCompileInputs.cache
+D:\SSD FOLDER ALEJO\Visual Studio Projects\CSharpCRUDMsSQL\obj\Debug\CSharpCRUDMsSQL.exe
+D:\SSD FOLDER ALEJO\Visual Studio Projects\CSharpCRUDMsSQL\obj\Debug\CSharpCRUDMsSQL.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCRUDMsSQL", "CSharpCRUDMsSQL.csproj", "{23FFAAE4-F28F-4FE6-A0BC-3DBAB7C6423E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FFAAE4-F28F-4FE6-A0BC-3DBAB7C6423E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FFAAE4-F28F-4FE6-A0BC-3DBAB7C6423E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FFAAE4-F28F-4FE6-A0BC-3DBAB7C6423E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FFAAE4-F28F-4FE6-A0BC-3DBAB7C6423E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FA344A9-EE75-44CC-98BB-6E4D1C074446}
+	EndGlobalSection
+EndGlobal
